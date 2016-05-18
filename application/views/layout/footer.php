@@ -33,9 +33,9 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="<?php echo base_url()?>/public/js/bootstrap/bootstrap.min.js"></script>
 	<script src="<?php echo base_url()?>/public/js/jquery.prettyPhoto.js"></script>
-    <script src="<?php echo base_url()?>public/js/jquery.isotope.min.js"></script>  
-	<script src="<?php echo base_url()?>public/js/wow.min.js"></script>
-	<script src="<?php echo base_url()?>public/js/bootstrap/functions.js"></script>
+    <script src="<?php echo base_url()?>/public/js/jquery.isotope.min.js"></script>  
+	<script src="<?php echo base_url()?>/public/js/wow.min.js"></script>
+	<script src="<?php echo base_url()?>/public/js/bootstrap/functions.js"></script>
 	
   </body>
 </html>
