@@ -7,6 +7,7 @@
     <title>Company-HTML Bootstrap theme</title>
     <link rel="shortcut icon" type="image/png" href="<?php echo base_url()?>public/img/icons/vive_training.png"/>
     <!-- Bootstrap -->
+    <link href="<?php echo base_url()?>public/css/bootstrap/bootstrap.css" rel="stylesheet">
     <link href="<?php echo base_url()?>public/css/bootstrap/bootstrap.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="<?php echo base_url()?>public/css/fonts/font-awesome.min.css">
 	<link rel="stylesheet" href="<?php echo base_url()?>public/css/themes/animate.css">
@@ -18,6 +19,8 @@
       <script src="/tours/public/assets/https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="/tours/public/assets/https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <style type="text/css">
+    </style>
   </head>
   <body>
 	<header>		
@@ -52,41 +55,32 @@
 			</div>	
 		</nav>		
 	</header>
+	
 	<div class="feature">
 		<div class="container">
-			<div class="text-center">
-				<div class="col-md-3">
-					<div class="hi-icon-wrap hi-icon-effect wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" >
-						<i class="fa fa-book"></i>	
-						<h2>Full Responsive</h2>
-						<p>Quisque eu ante at tortor imperdiet gravida nec sed turpis phasellus.</p>
-					</div>
-				</div>
-				<div class="col-md-3">
-					<div class="hi-icon-wrap hi-icon-effect wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" >
-						<i class="fa fa-laptop"></i>	
-						<h2>Retina Ready</h2>
-						<p>Quisque eu ante at tortor imperdiet gravida nec sed turpis phasellus.</p>
-					</div>
-				</div>
-				<div class="col-md-3">
-					<div class="hi-icon-wrap hi-icon-effect wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms" >
-						<i class="fa fa-heart-o"></i>	
-						<h2>Full Responsive</h2>
-						<p>Quisque eu ante at tortor imperdiet gravida nec sed turpis phasellus.</p>
-					</div>
-				</div>
-				<div class="col-md-3">
-					<div class="hi-icon-wrap hi-icon-effect wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms" >
-						<i class="fa fa-cloud"></i>	
-						<h2>Friendly Code</h2>
-						<p>Quisque eu ante at tortor imperdiet gravida nec sed turpis phasellus.</p>
-					</div>
-				</div>
-			</div>
+		    <div class="row">
+		        <div class="col-md-4 text-center">
+                    <div class="panel panel-danger panel-pricing">
+                        <div class="panel-heading">
+                            <h3>Plan 1</h3>
+                        </div>
+                        <div class="panel-body text-center">
+                            <p><strong>$100 / Month</strong></p>
+                        </div>
+                        <ul class="list-group text-center">
+                            <li class="list-group-item">
+                                <i class="glyphicon glyphicon-check"></i>Personal use
+                            </li>
+                        </ul>
+                        <div class="panel-footer">
+                            <a class="btn btn-lg btn-block btn-danger" href="#">BUY NOW!</a>
+                        </div>
+                    </div>
+                </div>
+		    </div>
 		</div>
 	</div>
-
+	
     <footer>
         <div class="footer">
 		    <div class="container">
