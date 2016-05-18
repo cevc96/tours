@@ -13,6 +13,8 @@
 	<link rel="stylesheet" href="<?php echo base_url()?>public/css/themes/animate.css">
 	<link href="<?php echo base_url()?>public/css/themes/prettyPhoto.css" rel="stylesheet">
 	<link href="<?php echo base_url()?>public/css/themes/style.css" rel="stylesheet" />	
+	<link rel="stylesheet" type='text/css' href="<?php echo base_url()?>public/css/fonts/material-icons.css">
+	<link href="<?php echo base_url()?>public/css/elements/componets.css" rel="stylesheet" />	
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -67,11 +69,9 @@
                         <div class="panel-body text-center">
                             <p><strong>$100 / Month</strong></p>
                         </div>
-                        <ul class="list-group text-center">
-                            <li class="list-group-item">
-                                <i class="glyphicon glyphicon-check"></i>Personal use
-                            </li>
-                        </ul>
+                        <a class="btn-circle">
+                            <i class="material-icons circle-icon">desktop_windows</i>
+                        </a>
                         <div class="panel-footer">
                             <a class="btn btn-lg btn-block btn-danger" href="#">BUY NOW!</a>
                         </div>
