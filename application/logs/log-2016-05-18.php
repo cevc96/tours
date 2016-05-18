@@ -139,3 +139,6 @@ ERROR - 2016-05-18 13:31:40 --> http://localhost:90/tours/
 ERROR - 2016-05-18 13:31:56 --> http://localhost:90/tours/
 ERROR - 2016-05-18 13:32:11 --> http://localhost:90/tours/
 ERROR - 2016-05-18 13:32:18 --> http://localhost:90/tours/
+ERROR - 2016-05-18 13:34:02 --> http://localhost:90/tours/
+ERROR - 2016-05-18 13:34:18 --> http://localhost:90/tours/
+ERROR - 2016-05-18 13:35:27 --> http://localhost:90/tours/
