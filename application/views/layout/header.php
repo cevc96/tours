@@ -7,16 +7,16 @@
     <title>Company-HTML Bootstrap theme</title>
     <link rel="shortcut icon" type="image/png" href="<?php echo base_url()?>public/img/icons/vive_training.png"/>
     <!-- Bootstrap -->
-    <link href="<?php echo base_url()?>public/assets/css/bootstrap.min.css" rel="stylesheet">
-	<link rel="stylesheet" href="<?php echo base_url()?>/public/assets/css/font-awesome.min.css">
-	<link rel="stylesheet" href="<?php echo base_url()?>/public/assets/css/animate.css">
-	<link href="<?php echo base_url()?>/public/assets/css/prettyPhoto.css" rel="stylesheet">
-	<link href="<?php echo base_url()?>/public/assets/css/style.css" rel="stylesheet" />	
+    <link href="<?php echo base_url()?>public/css/bootstrap/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="<?php echo base_url()?>public/css/fonts/font-awesome.min.css">
+	<link rel="stylesheet" href="<?php echo base_url()?>public/css/themes/animate.css">
+	<link href="<?php echo base_url()?>public/css/themes/prettyPhoto.css" rel="stylesheet">
+	<link href="<?php echo base_url()?>public/css/themes/style.css" rel="stylesheet" />	
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
-      <script src="/tours/public/assets/https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="/tours/public/assets/https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <script src="/tours/public/https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="/tours/public/https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
   <body>
@@ -32,19 +32,19 @@
 							<span class="icon-bar"></span>
 						</button>
 						<div class="navbar-brand">
-							<a href="<?php echo base_url()?>/public/assets/index.html"><h1><span>Tours</span>Tematicos</h1></a>
+							<a href="<?php echo base_url()?>public/index.html"><h1><span>Tours</span>Tematicos</h1></a>
 						</div>
 					</div>
 					
 					<div class="navbar-collapse collapse">							
 						<div class="menu">
 							<ul class="nav nav-tabs" role="tablist">
-								<li role="presentation"><a href="<?php echo base_url()?>public/assets/index.html" class="active">Home</a></li>
-								<li role="presentation"><a href="<?php echo base_url()?>public/assets/about.html">About Us</a></li>
-								<li role="presentation"><a href="<?php echo base_url()?>public/assets/services.html">Services</a></li>								
-								<li role="presentation"><a href="<?php echo base_url()?>public/assets/portfolio.html">Portfolio</a></li>
-								<li role="presentation"><a href="<?php echo base_url()?>public/assets/blog.html">Blog</a></li>
-								<li role="presentation"><a href="<?php echo base_url()?>public/assets/contact.html">Contact</a></li>						
+								<li role="presentation"><a href="<?php echo base_url()?>public/index.html" class="active">Home</a></li>
+								<li role="presentation"><a href="<?php echo base_url()?>public/about.html">About Us</a></li>
+								<li role="presentation"><a href="<?php echo base_url()?>public/services.html">Services</a></li>								
+								<li role="presentation"><a href="<?php echo base_url()?>public/portfolio.html">Portfolio</a></li>
+								<li role="presentation"><a href="<?php echo base_url()?>public/blog.html">Blog</a></li>
+								<li role="presentation"><a href="<?php echo base_url()?>public/contact.html">Contact</a></li>						
 							</ul>
 						</div>
 					</div>						

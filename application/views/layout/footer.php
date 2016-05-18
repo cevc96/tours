@@ -15,7 +15,7 @@
 				
 				<div class="col-md-4 col-md-offset-4">
 					<div class="copyright">
-						&copy; June  2015 by <a target="_blank" href="<?php echo base_url()?>/public/assets/http://bootstraptaste.com/" title="Free Twitter Bootstrap WordPress Themes and HTML templates">Bootstrap Themes</a>. All Rights Reserved.
+						&copy; June  2015 by <a target="_blank" href="http://bootstraptaste.com/" title="Free Twitter Bootstrap WordPress Themes and HTML templates">Bootstrap Themes</a>. All Rights Reserved.
 					</div>
 				</div>						
 			</div>
@@ -29,13 +29,13 @@
 	
 	
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-	<script src="<?php echo base_url()?>/public/assets/js/jquery-2.1.1.min.js"></script>	
+	<script src="<?php echo base_url()?>/public/js/jquery-2.1.1.min.js"></script>	
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="<?php echo base_url()?>/public/assets/js/bootstrap.min.js"></script>
-	<script src="<?php echo base_url()?>/public/assets/js/jquery.prettyPhoto.js"></script>
-    <script src="<?php echo base_url()?>public/assets/js/jquery.isotope.min.js"></script>  
-	<script src="<?php echo base_url()?>public/assets/js/wow.min.js"></script>
-	<script src="<?php echo base_url()?>public/assets/js/functions.js"></script>
+    <script src="<?php echo base_url()?>/public/js/bootstrap/bootstrap.min.js"></script>
+	<script src="<?php echo base_url()?>/public/js/jquery.prettyPhoto.js"></script>
+    <script src="<?php echo base_url()?>public/js/jquery.isotope.min.js"></script>  
+	<script src="<?php echo base_url()?>public/js/wow.min.js"></script>
+	<script src="<?php echo base_url()?>public/js/bootstrap/functions.js"></script>
 	
   </body>
 </html>
