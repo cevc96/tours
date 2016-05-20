@@ -14,7 +14,7 @@
 
                             <div class="col-sm-6 hidden-xs animation animated-item-4">
                                 <div class="slider-img">
-                                    <img src="<?php echo base_url()?>/public/img/slider/img3.png" class="img-responsive">
+                                    <img src="<?php echo base_url() ?>/public/img/slider/img3.png" class="img-responsive">
                                 </div>
                             </div>
 
@@ -64,7 +64,7 @@
 		<div class="container">
 			<div class="col-md-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" >
 				<h2>about us</h2>
-				<img src="<?php echo base_url()?>/public/img/6.jpg" class="img-responsive"/>
+				<img src="<?php echo base_url() ?>/public/img/6.jpg" class="img-responsive"/>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat 
 				libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
 				libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
@@ -96,7 +96,7 @@
 				<h2>Lates News</h2>
 			</div>
 			<div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
-				<img src="<?php echo base_url()?>/public/img/4.jpg" class="img-responsive"/>
+				<img src="<?php echo base_url() ?>/public/img/4.jpg" class="img-responsive"/>
 				<h3>Template built with Twitter Bootstrap</h3>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat 
 				libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
@@ -106,7 +106,7 @@
 			</div>
 			
 			<div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
-				<img src="<?php echo base_url()?>/public/img/4.jpg" class="img-responsive"/>
+				<img src="<?php echo base_url() ?>/public/img/4.jpg" class="img-responsive"/>
 				<h3>Template built with Twitter Bootstrap</h3>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat 
 				libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
@@ -116,7 +116,7 @@
 			</div>
 			
 			<div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">				
-				<img src="<?php echo base_url()?>/public/img/4.jpg" class="img-responsive"/>
+				<img src="<?php echo base_url() ?>/public/img/4.jpg" class="img-responsive"/>
 				<h3>Template built with Twitter Bootstrap</h3>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat 
 				libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
@@ -136,11 +136,11 @@
 
             <div class="partners">
                 <ul>
-                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" src="<?php echo base_url()?>/public/img/partners/partner1.png"></a></li>
-                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" src="<?php echo base_url()?>/public/img/partners/partner2.png"></a></li>
-                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms" src="<?php echo base_url()?>/public/img/partners/partner3.png"></a></li>
-                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms" src="<?php echo base_url()?>/public/img/partners/partner4.png"></a></li>
-                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1500ms" src="<?php echo base_url()?>/public/img/partners/partner5.png"></a></li>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" src="<?php echo base_url() ?>/public/img/partners/partner1.png"></a></li>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" src="<?php echo base_url() ?>/public/img/partners/partner2.png"></a></li>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms" src="<?php echo base_url() ?>/public/img/partners/partner3.png"></a></li>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms" src="<?php echo base_url() ?>/public/img/partners/partner4.png"></a></li>
+                    <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1500ms" src="<?php echo base_url() ?>/public/img/partners/partner5.png"></a></li>
                 </ul>
             </div>        
         </div><!--/.container-->

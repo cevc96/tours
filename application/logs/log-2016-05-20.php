@@ -42,3 +42,14 @@ ERROR - 2016-05-20 09:34:12 --> Severity: Warning --> include(): Failed opening 
 ERROR - 2016-05-20 09:34:41 --> http://localhost:90/tours/
 ERROR - 2016-05-20 09:35:08 --> http://localhost:90/tours/
 ERROR - 2016-05-20 09:35:49 --> http://localhost:90/tours/
+ERROR - 2016-05-20 17:06:15 --> http://localhost:90/tours/
+ERROR - 2016-05-20 17:09:17 --> 404 Page Not Found: Aux/index
+ERROR - 2016-05-20 17:09:17 --> Severity: Warning --> include(C:\xampp\htdocs\tours\application\views\errors\html\error_404.php): failed to open stream: No such file or directory C:\xampp\htdocs\tours\system\core\Exceptions.php 182
+ERROR - 2016-05-20 17:09:17 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\tours\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\tours\system\core\Exceptions.php 182
+ERROR - 2016-05-20 17:09:31 --> 404 Page Not Found: Aux/index
+ERROR - 2016-05-20 17:09:31 --> Severity: Warning --> include(C:\xampp\htdocs\tours\application\views\errors\html\error_404.php): failed to open stream: No such file or directory C:\xampp\htdocs\tours\system\core\Exceptions.php 182
+ERROR - 2016-05-20 17:09:31 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\tours\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\tours\system\core\Exceptions.php 182
+ERROR - 2016-05-20 17:09:49 --> http://localhost:90/tours/
+ERROR - 2016-05-20 17:10:29 --> 404 Page Not Found: Aux/index
+ERROR - 2016-05-20 17:10:29 --> Severity: Warning --> include(C:\xampp\htdocs\tours\application\views\errors\html\error_404.php): failed to open stream: No such file or directory C:\xampp\htdocs\tours\system\core\Exceptions.php 182
+ERROR - 2016-05-20 17:10:29 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\tours\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\tours\system\core\Exceptions.php 182
