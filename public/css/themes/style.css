@@ -108,7 +108,7 @@ a:hover {
 
 .menu {
 	font-size:12px;
-	float:right;
+	float:left;
 	text-transform:uppercase;
 	font-weight:700;	
 }
@@ -281,7 +281,7 @@ a:hover {
 /* 	font-size:15px; */
 /* 	/*margin-top:70px; */
 /* 	margin-bottom:30px; */
-/* 	color:#fff;*/ */
+/* 	color:#fff; */
 /* 	padding:8px; */
 /* 	background:#1BBD36; */
 /* 	border-radius:50%; */
