@@ -21,32 +21,28 @@
   </head>
   <body>
 	<header>		
-		<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-			<div class="navigation">
-            	<div class="container" >
-                	<div class="navbar-header">
-                    	<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu">
-                        	<span class="icon-bar app-bar"></span>
-                        	<span class="icon-bar app-bar"></span>
-                        	<span class="icon-bar app-bar"></span>
-                    	</button>
-                    	<div class="navbar-brand">
-							<a href="<?php echo base_url()?>/public/index.html"><h1><span>Tours</span>Tematicos</h1></a>
-						</div>
-                	</div>
-                	<div class="collapse navbar-collapse" id="menu">
-                    	<div class="menu">
-                    		<ul class="nav navbar-nav" role="tablist">
-                            	<li role="presentation"><a href="<?php echo base_url()?>/public/index.html" class="active">Home</a></li>
-								<li role="presentation"><a href="<?php echo base_url()?>/public/about.html">About Us</a></li>
-								<li role="presentation"><a href="<?php echo base_url()?>/public/services.html">Services</a></li>								
-								<li role="presentation"><a href="<?php echo base_url()?>/public/portfolio.html">Portfolio</a></li>
-								<li role="presentation"><a href="<?php echo base_url()?>/public/blog.html">Blog</a></li>
-								<li role="presentation"><a href="<?php echo base_url()?>/public/contact.html">Contact</a></li>
-                        	</ul>
-                    	</div>	
-                	</div>
-            	</div>
-        	</div>
-        </nav>		
+		<nav class="navbar">
+            <div class="container" >
+                <div class="navbar-header">
+                    <button class="navbar-toggle" data-toggle="collapse" data-target="#menu">
+                        <span class="icon-bar app-bar"></span>
+                        <span class="icon-bar app-bar"></span>
+                        <span class="icon-bar app-bar"></span>
+                    </button>
+                    <div class="navbar-brand">
+                    	<a href="<?php echo base_url()?>public/index.html"><h1><span>Tours</span>Tematicos</h1></a>
+					</div>
+                </div>
+                <div class="collapse navbar-collapse" id="menu">
+                    <ul class="nav navbar-nav">
+                        <li role="presentation"><a href="<?php echo base_url()?>/public/index.html" class="active">Home</a></li>
+						<li role="presentation"><a href="<?php echo base_url()?>/public/about.html">About Us</a></li>
+						<li role="presentation"><a href="<?php echo base_url()?>/public/services.html">Services</a></li>								
+						<li role="presentation"><a href="<?php echo base_url()?>/public/portfolio.html">Portfolio</a></li>
+						<li role="presentation"><a href="<?php echo base_url()?>/public/blog.html">Blog</a></li>
+						<li role="presentation"><a href="<?php echo base_url()?>/public/contact.html">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>	
 	</header>
