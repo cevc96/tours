@@ -38,11 +38,11 @@
                             <div class="menu">
                             	<ul class="nav navbar-nav" role="tablist">
                                     <li role="presentation"><a href="<?php echo base_url() ?>/public/index.html" class="active">Home</a></li>
-            						<li role="presentation"><a href="<?php echo base_url() ?>/public/about.html">About Us</a></li>
-            						<li role="presentation"><a href="<?php echo base_url() ?>/public/services.html">Services</a></li>								
-            						<li role="presentation"><a href="<?php echo base_url() ?>/public/portfolio.html">Portfolio</a></li>
-            						<li role="presentation"><a href="<?php echo base_url() ?>/public/blog.html">Blog</a></li>
-            						<li role="presentation"><a href="<?php echo base_url() ?>/public/contact.html">Contact</a></li>
+                                    <li role="presentation"><a href="<?php echo base_url() ?>/public/about.html">About Us</a></li>
+                                    <li role="presentation"><a href="<?php echo base_url() ?>/public/services.html">Services</a></li>								
+                                    <li role="presentation"><a href="<?php echo base_url() ?>/public/portfolio.html">Portfolio</a></li>
+                                    <li role="presentation"><a href="<?php echo base_url() ?>/public/blog.html">Blog</a></li>
+                                    <li role="presentation"><a href="<?php echo base_url() ?>/public/contact.html">Contact</a></li>
                                 </ul>
                             </div> 
                         </div>
