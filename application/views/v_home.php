@@ -1,20 +1,20 @@
 <section id="main-slider" class="no-margin">
     <div class="carousel slide">      
         <div class="carousel-inner">
-            <div class="item active" style="background-image: url(<?php echo base_url() ?>/public/img/slider/laguna_llanganuco.jpg)">
+            <div class="item active" style="background-image: url(<?php echo base_url() ?>public/img/slider/laguna_llanganuco.jpg)">
                 <div class="container">
                     <div class="row slide-margin">
                         <div class="col-sm-6">
                             <div class="carousel-content">
                                 <h2 class="animation animated-item-1">Bienvenidos <span>ToursTematicos</span></h2>
                                 <p class="animation animated-item-2">Accusantium doloremque laudantium totam rem aperiam, eaque ipsa...</p>
-                                <a class="btn-slide animation animated-item-3" href="/tours/public/#">Read More</a>
+                                <a class="btn-slide animation animated-item-3" href="tours/public/#">Read More</a>
                             </div>
                         </div>
 
                         <div class="col-sm-6 hidden-xs animation animated-item-4">
                             <div class="slider-img">
-                                <img src="<?php echo base_url() ?>/public/img/slider/img3.png" class="img-responsive">
+                                <img src="<?php echo base_url() ?>public/img/slider/img3.png" class="img-responsive">
                             </div>
                         </div>
 
@@ -64,7 +64,7 @@
     <div class="container">
         <div class="col-md-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" >
             <h2>about us</h2>
-            <img src="<?php echo base_url() ?>/public/img/6.jpg" class="img-responsive"/>
+            <img src="<?php echo base_url() ?>public/img/6.jpg" class="img-responsive"/>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat 
                 libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
                 libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
@@ -136,11 +136,11 @@
 
         <div class="partners">
             <ul>
-                <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" src="<?php echo base_url() ?>/public/img/partners/partner1.png"></a></li>
-                <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" src="<?php echo base_url() ?>/public/img/partners/partner2.png"></a></li>
-                <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms" src="<?php echo base_url() ?>/public/img/partners/partner3.png"></a></li>
-                <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms" src="<?php echo base_url() ?>/public/img/partners/partner4.png"></a></li>
-                <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1500ms" src="<?php echo base_url() ?>/public/img/partners/partner5.png"></a></li>
+                <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" src="<?php echo base_url() ?>public/img/partners/partner1.png"></a></li>
+                <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" src="<?php echo base_url() ?>public/img/partners/partner2.png"></a></li>
+                <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms" src="<?php echo base_url() ?>public/img/partners/partner3.png"></a></li>
+                <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms" src="<?php echo base_url() ?>public/img/partners/partner4.png"></a></li>
+                <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1500ms" src="<?php echo base_url() ?>public/img/partners/partner5.png"></a></li>
             </ul>
         </div>        
     </div><!--/.container-->

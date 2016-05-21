@@ -305,7 +305,7 @@ a:hover {
 }
 
 #partner {
-    background: url(../images/partners/partner_bg.png) 50% 50% no-repeat;
+    background: url(../../img/partners/partner_bg.png) 50% 50% no-repeat;
     background-size: cover;
 }
 
@@ -344,7 +344,7 @@ a:hover {
 }
 
 #conatcat-info{
-    background: #fff url(../images/contact.png) no-repeat 90% 0;
+    background: #fff url(../../img/contact.png) no-repeat 90% 0;
     padding: 30px 0;
 }
 

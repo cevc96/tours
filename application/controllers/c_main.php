@@ -3,7 +3,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class C_main extends CI_Controller {
     
-    public function __construct(){
+    public function __construct() {
         parent::__construct();
         $this->output->set_header('Content-Type: text/html; charset=ISO-8859-1');
         $this->output->set_header('Last-Modified:'.gmdate('D, d M Y H:i:s').'GMT');
@@ -13,11 +13,10 @@ class C_main extends CI_Controller {
         $this->output->set_header('Content-Type: text/html; charset=ISO-8859-1');
     }
     
-	public function index()
-	{
+	public function index() {
 	    log_message('error', base_url());
 	    $this->load->view('layout/header');
-		$this->load->view('v_home');
-		$this->load->view('layout/footer');
+            $this->load->view('v_home');
+            $this->load->view('layout/footer');
 	}
 }
