@@ -1,13 +1,13 @@
 <section id="main-slider" class="no-margin">
     <div class="carousel slide">      
         <div class="carousel-inner">
-            <div class="item active" style="background-image: url(<?php echo base_url() ?>public/img/slider/laguna_llanganuco.jpg)">
+            <div class="item active" style="background-image: url(<?php echo base_url() ?>public/img/slider/machu_picchu.jpg)">
                 <div class="container">
                     <div class="row slide-margin">
                         <div class="col-sm-6">
                             <div class="carousel-content">
-                                <h2 class="animation animated-item-1">Bienvenidos <span>ToursTematicos</span></h2>
-                                <p class="animation animated-item-2">Accusantium doloremque laudantium totam rem aperiam, eaque ipsa...</p>
+                                <h2 class="animation animated-item-1">Bienvenidos <span>Tours</span></h2>
+                                <p class="animation animated-item-2 hidden-xs">Accusantium doloremque laudantium totam rem aperiam, eaque ipsa...</p>
                                 <a class="btn-slide animation animated-item-3" href="tours/public/#">Read More</a>
                             </div>
                         </div>

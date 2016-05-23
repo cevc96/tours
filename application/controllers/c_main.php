@@ -16,7 +16,7 @@ class C_main extends CI_Controller {
 	public function index() {
 	    log_message('error', base_url());
 	    $this->load->view('layout/header');
-            $this->load->view('v_home');
-            $this->load->view('layout/footer');
+        $this->load->view('v_home');
+        $this->load->view('layout/footer');
 	}
 }

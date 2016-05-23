@@ -38,12 +38,12 @@
                         <div class="navbar-collapse collapse">							
                             <div class="menu">
                                 <ul class="nav navbar-nav" role="tablist">
-                                    <li role="presentation"><a href="<?php echo base_url() ?>" class="active">Home</a></li>
-                                    <li role="presentation"><a href="<?php echo base_url() ?>v_about.php">Nosotros</a></li>
-                                    <li role="presentation"><a href="services.html">Services</a></li>								
-                                    <li role="presentation"><a href="portfolio.html">Portfolio</a></li>
+                                    <li role="presentation"><a href="<?php echo base_url() ?>c_main" class="active">Home</a></li>
+                                    <li role="presentation"><a href="<?php echo base_url() ?>c_about">Nosotros</a></li>
+                                    <li role="presentation"><a href="services.html">Servicios</a></li>								
+                                    <li role="presentation"><a href="portfolio.html">Portafolio</a></li>
                                     <li role="presentation"><a href="blog.html">Blog</a></li>
-                                    <li role="presentation"><a href="contact.html">Contact</a></li>						
+                                    <li role="presentation"><a href="contact.html">Contacto</a></li>						
                                 </ul>
                             </div>
                         </div>						
