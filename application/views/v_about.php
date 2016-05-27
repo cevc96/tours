@@ -76,33 +76,23 @@
 
 <div class="our-team">
 	<div class="container">
-		<h3>Nuestro Equipo</h3>
+		<h3>Representante</h3>
 		<div class="text-center">
-			<div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms"
+			<div class="wow fadeInDown" data-wow-duration="1000ms"
 				data-wow-delay="300ms">
-				<img src="<?php base_url() ?>public/img/services/1.jpg" alt="">
-				<h4>Mariell Mestanza Farfan</h4>
-				<p>
-					Licenciada en Turismo, Hotelería y Gastronomía de la Universidad
-					Ricardo Palma<br /> Directora de Relaciones Publicas del Colegio de
-					Licenciados en Turismo Región Lima COLITUR<br /> Docente
-					universitaria, ha trabajado en universidades públicas como
-					privadas
-				</p>
-			</div>
-			<div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms"
-				data-wow-delay="600ms">
-				<img src="<?php base_url() ?>public/img/services/2.jpg" alt="">
-				<h4>John Doe</h4>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing eil sed
-					deiusmod tempor</p>
-			</div>
-			<div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms"
-				data-wow-delay="900ms">
-				<img src="<?php base_url() ?>public/img/services/3.jpg" alt="">
-				<h4>John Doe</h4>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing eil sed
-					deiusmod tempor</p>
+				<div class="col-xs-12 col-md-4">
+					<img src="<?php base_url() ?>public/img/services/1.jpg" alt="">
+				</div>
+				<div class="col-xs-12 col-md-8" style="text-align: justify;">
+    				<h4>Mariell Mestanza Farfan</h4>
+    				<p>
+    					Licenciada en Turismo, Hotelería y Gastronomía de la Universidad
+    					Ricardo Palma<br /> Directora de Relaciones Publicas del Colegio de
+    					Licenciados en Turismo Regi&oacute;n Lima COLITUR<br /> Docente
+    					universitaria, ha trabajado en universidades públicas como
+    					privadas
+    				</p>
+				</div>
 			</div>
 		</div>
 	</div>
