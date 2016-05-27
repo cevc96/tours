@@ -20,5 +20,3 @@ class C_Contact extends CI_Controller {
         $this->load->view('layout/footer');
     }
 }
-
-?>
