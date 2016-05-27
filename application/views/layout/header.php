@@ -40,10 +40,9 @@
                                 <ul class="nav navbar-nav" role="tablist">
                                     <li role="presentation"><a href="<?php echo base_url() ?>c_main" class="active">Home</a></li>
                                     <li role="presentation"><a href="<?php echo base_url() ?>c_about">Nosotros</a></li>
-                                    <li role="presentation"><a href="services.html">Servicios</a></li>								
-                                    <li role="presentation"><a href="portfolio.html">Portafolio</a></li>
-                                    <li role="presentation"><a href="blog.html">Blog</a></li>
-                                    <li role="presentation"><a href="contact.html">Contacto</a></li>						
+                                    <li role="presentation"><a href="<?php echo base_url() ?>c_services">Servicios</a></li>								
+                                    <li role="presentation"><a href="<?php echo base_url() ?>c_portfolio">Portafolio</a></li>
+                                    <li role="presentation"><a href="<?php echo base_url() ?>c_contact">Contacto</a></li>						
                                 </ul>
                             </div>
                         </div>						

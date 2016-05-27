@@ -13,7 +13,7 @@
 		<hr>
 		<div class="col-md-7 wow fadeInDown" data-wow-duration="1000ms"
 			data-wow-delay="300ms">
-			<img src="<?php base_url() ?>public/img/7.jpg" class="img-responsive">
+			<img src="<?php echo base_url() ?>public/img/7.jpg" class="img-responsive">
 			<h4>QUIENES SOMOS?</h4>
 			<p>Nam tempor velit sed turpis imperdiet vestibulum. In mattis leo ut
 				sapien euismod id feugiat mauris euismod. Pellentesque habitant
@@ -32,7 +32,7 @@
 			</div>
 			<div class="col-xs-12">
 				<div class="col-md-6">
-					<img src="<?php base_url() ?>public/img/7.jpg"
+					<img src="<?php echo base_url() ?>public/img/7.jpg"
 						class="img-responsive">
 				</div>
 				<div class="col-md-6">
@@ -66,7 +66,7 @@
 						amet dui feugiat vitae dapibus odio eleifend.</p>
 				</div>
 				<div class="col-md-6">
-					<img src="<?php base_url() ?>public/img/7.jpg"
+					<img src="<?php echo base_url() ?>public/img/7.jpg"
 						class="img-responsive">
 				</div>
 			</div>
@@ -81,7 +81,7 @@
 			<div class="wow fadeInDown" data-wow-duration="1000ms"
 				data-wow-delay="300ms">
 				<div class="col-xs-12 col-md-4">
-					<img src="<?php base_url() ?>public/img/services/1.jpg" alt="">
+					<img src="<?php echo base_url() ?>public/img/services/1.jpg" alt="">
 				</div>
 				<div class="col-xs-12 col-md-8" style="text-align: justify;">
     				<h4>Mariell Mestanza Farfan</h4>
