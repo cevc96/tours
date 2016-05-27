@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Company-HTML Bootstrap theme</title>
+        <title>Tours</title>
         <link rel="shortcut icon" type="image/png" href="<?php echo base_url() ?>/public/img/icons/vive_training.png"/>
         <!-- Bootstrap -->
         <link href="<?php echo base_url() ?>/public/css/bootstrap/bootstrap.min.css" rel="stylesheet">
