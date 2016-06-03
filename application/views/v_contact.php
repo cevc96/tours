@@ -25,34 +25,33 @@
 				method="post" action="sendemail.php">
 				<div class="col-sm-5 col-sm-offset-1">
 					<div class="form-group">
-						<label>Name *</label> <input type="text" name="name"
+						<label>Nombre *</label> <input type="text" name="name"
 							class="form-control" required="required">
 					</div>
 					<div class="form-group">
-						<label>Email *</label> <input type="email" name="email"
-							class="form-control" required="required">
+						<label>Email *</label>
+						<input type="email" name="email" class="form-control" required="required">
 					</div>
 					<div class="form-group">
-						<label>Phone</label> <input type="number" class="form-control">
+						<label>Tel&eacute;fono</label>
+						<input type="number" class="form-control">
 					</div>
 					<div class="form-group">
-						<label>Company Name</label> <input type="text"
-							class="form-control">
+						<label>Company Name</label>
+						<input type="text" class="form-control">
 					</div>
 				</div>
 				<div class="col-sm-5">
 					<div class="form-group">
-						<label>Subject *</label> <input type="text" name="subject"
-							class="form-control" required="required">
+						<label>Asunto *</label>
+						<input type="text" name="subject" class="form-control" required="required">
 					</div>
 					<div class="form-group">
-						<label>Message *</label>
-						<textarea name="message" id="message" required="required"
-							class="form-control" rows="8"></textarea>
+						<label>Mensaje *</label>
+						<textarea name="message" id="message" required="required" class="form-control" rows="8"></textarea>
 					</div>
 					<div class="form-group">
-						<button type="submit" name="submit" class="btn btn-primary btn-lg"
-							required="required">Submit Message</button>
+						<button type="submit" name="submit" class="btn btn-primary btn-lg" required="required">Enviar Mensaje</button>
 					</div>
 				</div>
 			</form>
