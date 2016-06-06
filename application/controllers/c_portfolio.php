@@ -14,9 +14,9 @@ class C_Portfolio extends CI_Controller {
     }
     
     public function index() {
-        $datos['menu_active'] = "portfolio";
+        $data['menu_active'] = "portfolio";
 	    log_message('error', base_url());
-	    $this->load->view('layout/header', $datos);
+	    $this->load->view('layout/header', $data);
         $this->load->view('v_portfolio');
         $this->load->view('layout/footer');
     }

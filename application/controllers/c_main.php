@@ -14,9 +14,9 @@ class C_main extends CI_Controller {
     }
     
 	public function index() {
-		$datos['menu_active'] = "home";
+		$data['menu_active'] = "home";
 	    log_message('error', base_url());
-	    $this->load->view('layout/header', $datos);
+	    $this->load->view('layout/header', $data);
         $this->load->view('v_home');
         $this->load->view('layout/footer');
 	}

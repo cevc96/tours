@@ -14,9 +14,9 @@ class C_Contact extends CI_Controller {
     }
     
     public function index() {
-        $datos['menu_active'] = "contact";
+        $data['menu_active'] = "contact";
 	    log_message('error', base_url());
-	    $this->load->view('layout/header', $datos);
+	    $this->load->view('layout/header', $data);
         $this->load->view('v_contact');
         $this->load->view('layout/footer');
     }

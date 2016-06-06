@@ -14,9 +14,9 @@ class C_About extends CI_Controller {
     }
     
     public function index() {
-        $datos['menu_active'] = "about";
+        $data['menu_active'] = "about";
 	    log_message('error', base_url());
-	    $this->load->view('layout/header', $datos);
+	    $this->load->view('layout/header', $data);
         $this->load->view('v_about');
         $this->load->view('layout/footer');
     }
