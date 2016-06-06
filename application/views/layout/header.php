@@ -38,11 +38,11 @@
                         <div class="navbar-collapse collapse">							
                             <div class="menu">
                                 <ul class="nav navbar-nav" role="tablist">
-                                    <li role="presentation"><a href="<?php echo base_url() ?>c_main" class="active">Home</a></li>
-                                    <li role="presentation"><a href="<?php echo base_url() ?>c_about">Nosotros</a></li>
-                                    <li role="presentation"><a href="<?php echo base_url() ?>c_services">Servicios</a></li>								
-                                    <li role="presentation"><a href="<?php echo base_url() ?>c_portfolio">Portafolio</a></li>
-                                    <li role="presentation"><a href="<?php echo base_url() ?>c_contact">Contacto</a></li>						
+                                    <li role="presentation"><a href="<?php echo base_url() ?>c_main" <?php if ($menu_active == "home") {echo 'class="active"';} ?>>Home</a></li>
+                                    <li role="presentation"><a href="<?php echo base_url() ?>c_about" <?php if ($menu_active == "about") {echo 'class="active"';} ?>>Nosotros</a></li>
+                                    <li role="presentation"><a href="<?php echo base_url() ?>c_services" <?php if ($menu_active == "services") {echo 'class="active"';} ?>>Servicios</a></li>								
+                                    <li role="presentation"><a href="<?php echo base_url() ?>c_portfolio" <?php if ($menu_active == "portfolio") {echo 'class="active"';} ?>>Portafolio</a></li>
+                                    <li role="presentation"><a href="<?php echo base_url() ?>c_contact" <?php if ($menu_active == "contact") {echo 'class="active"';} ?>>Contacto</a></li>						
                                 </ul>
                             </div>
                         </div>						

@@ -14,8 +14,9 @@ class C_Services extends CI_Controller {
     }
     
     public function index() {
-        log_message('error', base_url());
-        $this->load->view('layout/header');
+        $datos['menu_active'] = "services";
+	    log_message('error', base_url());
+	    $this->load->view('layout/header', $datos);
         $this->load->view('v_services');
         $this->load->view('layout/footer');
     }
