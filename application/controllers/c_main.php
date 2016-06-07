@@ -13,11 +13,11 @@ class C_main extends CI_Controller {
         $this->output->set_header('Content-Type: text/html; charset=ISO-8859-1');
     }
     
-	public function index() {
-		$data['menu_active'] = "home";
-	    log_message('error', base_url());
-	    $this->load->view('layout/header', $data);
+    public function index() {
+        $data['menu_active'] = "home";
+        log_message('error', base_url());
+        $this->load->view('layout/header', $data);
         $this->load->view('v_home');
         $this->load->view('layout/footer');
-	}
+    }
 }
