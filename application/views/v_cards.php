@@ -57,95 +57,156 @@
         
         <section id="main-slider" class="no-margin">
             <div class="feature">
-                <div class="container">
-                    <div class="text-center">
-                        <div class="row">
-                            <div class="col-md-4 wow fadeInDown"  data-wow-duration="500ms" data-wow-delay="300ms">
-                                 <div class="panel panel-success">
-                                     <div class="panel-heading">
-                                        Autisha
-                                     </div>
-                                     <div class="panel-body">
-                                         <div class="col-sm-12">
-                                            <img class="img-responsive img-center " src="<?php echo base_url() ?>public/img/autisha.jpg"><span class="input-group-btn"></span>
-                                         </div>
-                                     </div>
-                                     <div class="panel-footer">
-                                        <div class="list-group">
-                                             <div class="list-group-item">
-                                                 <div class="row-content">
-                                                     <h4 class="list-group-item-heading">Tile with a label</h4>
-                                                     <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus.</p>
-                                                 </div>
-                                                 <a class="row-action-primary" style="cursor:pointer">
-                                                    <i class="material-icons">send</i>
-                                                 </a>
-                                                 <div class="row-content">
-                                                     <p class="list-group-item-text">Autisha nuevo viaje precio ..... inicio ... fin....</p>
-                                                 </div>
-                                             </div>
-                                         </div>
-                                     </div>
-                                 </div>
-                            </div>
-                            <div class="col-md-4 wow fadeInDown"  data-wow-duration="500ms" data-wow-delay="300ms">
-                                 <div class="panel panel-success">
-                                     <div class="panel-heading">
-                                        Pachacamac
-                                     </div>
-                                     <div class="panel-body">
-                                         <div class="col-sm-12">
-                                            <img class="img-responsive img-center" src="<?php echo base_url() ?>public/img/pachacamac.jpg">
-                                         </div>
-                                     </div>
-                                     <div class="panel-footer">
-                                        <div class="list-group">
-                                             <div class="list-group-item">
-                                                 <div class="row-content">
-                                                     <h4 class="list-group-item-heading">Tile with a label</h4>
-                                                     <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus.</p>
-                                                 </div>
-                                                 <a class="row-action-primary" style="cursor:pointer">
-                                                    <i class="material-icons">send</i>
-                                                 </a>
-                                                 <div class="row-content">
-                                                     <p class="list-group-item-text">Pachacamac nuevo viaje precio ..... inicio ... fin....</p>
-                                                 </div>
-                                             </div>
-                                         </div>
-                                     </div>
-                                 </div>
-                            </div>
-                            <div class="col-md-4 wow fadeInDown"  data-wow-duration="500ms" data-wow-delay="300ms">
-                                 <div class="panel panel-success">
-                                     <div class="panel-heading">
-                                        Churin
-                                     </div>
-                                     <div class="panel-body">
-                                         <div class="col-sm-12">
-                                            <img class="img-responsive img-center" src="<?php echo base_url() ?>public/img/churin.jpg">}<span class="input-group-btn">
-                                         </div>
-                                     </div>
-                                     <div class="panel-footer">
-                                        <div class="list-group">
-                                             <div class="list-group-item">
-                                                 <div class="row-content">
-                                                     <h4 class="list-group-item-heading">Tile with a label</h4>
-                                                     <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus.</p>
-                                                 </div>
-                                                 <a class="row-action-primary" style="cursor:pointer">
-                                                    <i class="material-icons">send</i>
-                                                 </a>
-                                                 <div class="row-content">
-                                                     <p class="list-group-item-text">Churin nuevo viaje precio ..... inicio ... fin....</p>
-                                                 </div>
-                                             </div>
-                                         </div>
-                                     </div>
-                                 </div>
-                            </div>
-                        </div>
-                    </div>                        
+                <div class="services">
+                	<div id="1" class="container" style="display:none">
+                		<h3>Autisha</h3>
+                		<hr>
+                		<div class="col-md-6">
+                			<img src="<?php echo base_url() ?>public/img/autisha_completo.jpg" class="img-responsive">
+                			<p>La salida ideal para perder el miedo a los abismos y alturas… Un viaje increíble!
+                                Nos internaremos caminando entre paredes de 200 metros de altura, caminos angostos, oscuras cuevas, precipicios y todo en oscuridad total .                                
+                                Durante el recorrido en uno de los túneles descubriremos la mágica laguna y Catarata Subterránea de Sheke, los que deseen se podrán dar un rico chapuzón.
+                                Durante el regreso, para completar nuestro día de adrenalina, realizaremos rapel en una pared de más de 30 metros de alto.</p>
+                		</div>
+                
+                		<div class="col-md-6">
+                			<div class="media">
+                				<ul>
+                					<li>
+                						<div class="media-left">
+                							<i class="fa fa-list-alt"></i>
+                						</div>
+                						<div class="media-body">
+                							<h4 class="media-heading">Itinerario</h4>
+                							<p>06 a.m.. Reunión en Calle el Comercio cdra 1, San Borja (A espalda del Museo de la Nación).</br>
+                                               06:15 am. Salida con Dirección a Autisha.</br>
+                                               09 a.m.. llegada e inicio del trekking.</br>
+                                               12:00 m. Llegada a la Laguna Sheke y Momento de refrigerio</br>
+                                               13:00. Retorno en Rapel 30 mts ..</br>
+                                               15:00. Partimos en la movilidad rumbo a Lima</br>
+                                               18:30. Llegada a Lima</p>
+                						</div>
+                					</li>
+                					<li>
+                						<div class="media-left">
+                							<i class="fa fa-money"></i>
+                						</div>
+                						<div class="media-body">
+                							<h4 class="media-heading">Costos</h4>
+                							<p>S /.110.00 – Por persona</br>
+                                               S/. 85.00 – Afiliados al Club Mundo Aventura</br>
+                                               Afíliate: http://mundoaventuratravel.com/club-mundo-aventura/</br>
+                                               S/. 10.00 de incremento los días 28, 29, 30 y 31 de julio.</p>
+                						</div>
+                					</li>
+                				</ul>
+                			</div>
+                		</div>
+                	</div>
+                	<div id="2" class="container" style="display:none">
+                		<h3>Pachacamac</h3>
+                		<hr>
+                		<div class="col-md-6">
+                			<img src="<?php echo base_url() ?>public/img/pachacamac_completo.jpg" class="img-responsive">
+                			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
+                				interdum erat libero, pulvinar tincidunt leo consectetur eget.
+                				Curabitur lacinia pellentesque libero, pulvinar tincidunt leo
+                				consectetur eget. Curabitur lacinia pellentesque libero, pulvinar
+                				tincidunt leo consectetur eget. Curabitur lacinia pellentesque</p>
+                		</div>
+                
+                		<div class="col-md-6">
+                			<div class="media">
+                				<ul>
+                					<li>
+                						<div class="media-left">
+                							<i class="fa fa-pencil"></i>
+                						</div>
+                						<div class="media-body">
+                							<h4 class="media-heading">Web Development</h4>
+                							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                								Phasellus interdum erat libero, pulvinar tincidunt leo
+                								consectetur eget.</p>
+                						</div>
+                					</li>
+                					<li>
+                						<div class="media-left">
+                							<i class="fa fa-book"></i>
+                						</div>
+                						<div class="media-body">
+                							<h4 class="media-heading">Responsive Design</h4>
+                							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                								Phasellus interdum erat libero, pulvinar tincidunt leo
+                								consectetur eget.</p>
+                						</div>
+                					</li>
+                					<li>
+                						<div class="media-left">
+                							<i class="fa fa-rocket"></i>
+                						</div>
+                						<div class="media-body">
+                							<h4 class="media-heading">Bootstrap Themes</h4>
+                							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                								Phasellus interdum erat libero, pulvinar tincidunt leo
+                								consectetur eget.</p>
+                						</div>
+                					</li>
+                				</ul>
+                			</div>
+                		</div>
+                	</div>
+                	<div id="3" class="container" style="display:none">
+                		<h3>Churin</h3>
+                		<hr>
+                		<div class="col-md-6">
+                			<img src="<?php echo base_url() ?>public/img/churin_completo.jpg" class="img-responsive">
+                			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
+                				interdum erat libero, pulvinar tincidunt leo consectetur eget.
+                				Curabitur lacinia pellentesque libero, pulvinar tincidunt leo
+                				consectetur eget. Curabitur lacinia pellentesque libero, pulvinar
+                				tincidunt leo consectetur eget. Curabitur lacinia pellentesque</p>
+                		</div>
+                
+                		<div class="col-md-6">
+                			<div class="media">
+                				<ul>
+                					<li>
+                						<div class="media-left">
+                							<i class="fa fa-pencil"></i>
+                						</div>
+                						<div class="media-body">
+                							<h4 class="media-heading">Web Development</h4>
+                							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                								Phasellus interdum erat libero, pulvinar tincidunt leo
+                								consectetur eget.</p>
+                						</div>
+                					</li>
+                					<li>
+                						<div class="media-left">
+                							<i class="fa fa-book"></i>
+                						</div>
+                						<div class="media-body">
+                							<h4 class="media-heading">Responsive Design</h4>
+                							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                								Phasellus interdum erat libero, pulvinar tincidunt leo
+                								consectetur eget.</p>
+                						</div>
+                					</li>
+                					<li>
+                						<div class="media-left">
+                							<i class="fa fa-rocket"></i>
+                						</div>
+                						<div class="media-body">
+                							<h4 class="media-heading">Bootstrap Themes</h4>
+                							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                								Phasellus interdum erat libero, pulvinar tincidunt leo
+                								consectetur eget.</p>
+                						</div>
+                					</li>
+                				</ul>
+                			</div>
+                		</div>
+                	</div>
                 </div>
             </div>
 	   </section>
@@ -186,6 +247,9 @@
 <script src="<?php echo base_url() ?>public/js/jquery.prettyPhoto.js"></script>
 <script src="<?php echo base_url() ?>public/js/jquery.isotope.min.js"></script>  
 <script src="<?php echo base_url() ?>public/js/wow.min.js"></script>
-
+<script src="<?php echo base_url() ?>public/js/jslogic/jshome.js"></script>
+<script type="text/javascript">
+showCardBySelected(<?php echo $card;?>)
+</script>
 </body>
 </html>

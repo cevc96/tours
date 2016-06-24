@@ -20,4 +20,15 @@ class C_main extends CI_Controller {
         $this->load->view('v_home');
         $this->load->view('layout/footer');
     }
+    
+    function redirectToDetalleCard(){
+        $data = null;
+        try{
+            $card = $this->input->post('card');
+            $data['url'] = base_url().'c_cards?card='.(($card));
+        } catch(Exception $e){
+            log_message('error', $e->getMessage());
+        }
+        echo json_encode(array_map('utf8_encode', $data));
+    }
 }

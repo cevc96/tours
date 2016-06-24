@@ -57,10 +57,10 @@
 <div class="lates">
     <div class="container">
         <div class="row">
-            <div class="text-center">
+            <div class="">
                 <div class="col-md-4 wow fadeInDown"  data-wow-duration="500ms" data-wow-delay="600ms">
                      <div class="panel panel-success">
-                         <div class="panel-heading">
+                         <div class="panel-heading text-center">
                             Autisha
                          </div>
                          <div class="panel-body">
@@ -73,14 +73,14 @@
                             <div class="list-group">
                                  <div class="list-group-item">
                                      <div class="row-content">
-                                         <h4 class="list-group-item-heading">Tile with a label</h4>
-                                         <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus.</p>
+                                         <h4 class="list-group-item-heading">Rapel</h4>
+                                         <p class="list-group-item-text">Incluye:</p>
                                      </div>
-                                     <a class="row-action-primary" style="cursor:pointer">
+                                     <a class="row-action-primary" style="cursor:pointer" onclick="goToDetalleCard(1)">
                                         <i class="material-icons">send</i>
                                      </a>
                                      <div class="row-content">
-                                         <p class="list-group-item-text">Autisha nuevo viaje precio ..... inicio ... fin....</p>
+                                         <p class="list-group-item-text">Puenting + Hiking y vía ferrata a la cascada Autisha </p>
                                      </div>
                                  </div>
                              </div>
@@ -89,7 +89,7 @@
                 </div>
                 <div class="col-md-4 wow fadeInDown"  data-wow-duration="500ms" data-wow-delay="900ms">
                      <div class="panel panel-success">
-                         <div class="panel-heading">
+                         <div class="panel-heading text-center">
                             Pachacamac
                          </div>
                          <div class="panel-body">
@@ -102,14 +102,15 @@
                             <div class="list-group">
                                  <div class="list-group-item">
                                      <div class="row-content">
-                                         <h4 class="list-group-item-heading">Tile with a label</h4>
-                                         <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus.</p>
+                                         <h4 class="list-group-item-heading">Parapente</h4>
+                                         <p class="list-group-item-text">Incluye:</p>
                                      </div>
-                                     <a class="row-action-primary" style="cursor:pointer">
+                                     <a class="row-action-primary" style="cursor:pointer" onclick="goToDetalleCard(2)">
                                         <i class="material-icons">send</i>
                                      </a>
                                      <div class="row-content">
-                                         <p class="list-group-item-text">Pachacamac nuevo viaje precio ..... inicio ... fin....</p>
+                                         <p class="list-group-item-text">Parapente</p>
+                                         <p class="list-group-item-text">Rapel</p>
                                      </div>
                                  </div>
                              </div>
@@ -118,12 +119,12 @@
                 </div>
                 <div class="col-md-4 wow fadeInDown"  data-wow-duration="500ms" data-wow-delay="1200ms">
                      <div class="panel panel-success">
-                         <div class="panel-heading">
+                         <div class="panel-heading text-center">
                             Churin
                          </div>
                          <div class="panel-body">
                              <div class="col-sm-12">
-                                <img class="img-responsive img-center" src="<?php echo base_url() ?>public/img/churin.jpg">
+                                <img class="img-responsive img-center h-elemt" src="<?php echo base_url() ?>public/img/churin.jpg">
                                 <span class="input-group-btn"></span>
                              </div>
                          </div>
@@ -131,14 +132,15 @@
                             <div class="list-group">
                                  <div class="list-group-item">
                                      <div class="row-content">
-                                         <h4 class="list-group-item-heading">Tile with a label</h4>
-                                         <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus.</p>
+                                         <h4 class="list-group-item-heading">Churin 2d/1n</h4>
+                                         <p class="list-group-item-text">Incluye:</p>
                                      </div>
-                                     <a class="row-action-primary" style="cursor:pointer">
+                                     <a class="row-action-primary" style="cursor:pointer" onclick="goToDetalleCard(3)">
                                         <i class="material-icons">send</i>
                                      </a>
                                      <div class="row-content">
-                                         <p class="list-group-item-text">Churin nuevo viaje precio ..... inicio ... fin....</p>
+                                         <p class="list-group-item-text">Transporte privado, Noche de habitación, etc.</p>
+                                         <p class="list-group-item-text">S/. 300</p>
                                      </div>
                                  </div>
                              </div>

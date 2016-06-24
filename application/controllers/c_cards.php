@@ -15,7 +15,9 @@ class C_cards extends CI_Controller {
     
 	public function index()
 	{
-	    log_message('error', base_url());
-	    $this->load->view('v_cards');
+	    $data = null;
+	    $data['card'] = "'".'#'.$_GET['card']."'";
+	    
+	    $this->load->view('v_cards',$data);
 	}
 }
