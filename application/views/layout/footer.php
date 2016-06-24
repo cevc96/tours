@@ -34,6 +34,7 @@
 <script src="<?php echo base_url() ?>public/js/jquery.isotope.min.js"></script>  
 <script src="<?php echo base_url() ?>public/js/wow.min.js"></script>
 <script src="<?php echo base_url() ?>public/js/bootstrap/functions.js"></script>
+<script src="<?php echo base_url() ?>public/js/jslogic/jshome.js"></script>
 
 </body>
 </html>
