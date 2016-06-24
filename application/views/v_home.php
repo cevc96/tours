@@ -86,37 +86,98 @@
 
 <div class="lates">
     <div class="container">
-        <div class="text-center">
-            <h2>Lates News</h2>
-        </div>
-        <div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
-            <img src="<?php echo base_url() ?>/public/img/4.jpg" class="img-responsive"/>
-            <h3>Template built with Twitter Bootstrap</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat 
-                libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
-                libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
-                libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
-            </p>
-        </div>
-
-        <div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
-            <img src="<?php echo base_url() ?>/public/img/4.jpg" class="img-responsive"/>
-            <h3>Template built with Twitter Bootstrap</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat 
-                libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
-                libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
-                libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
-            </p>
-        </div>
-
-        <div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">				
-            <img src="<?php echo base_url() ?>/public/img/4.jpg" class="img-responsive"/>
-            <h3>Template built with Twitter Bootstrap</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat 
-                libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
-                libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
-                libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
-            </p>
+        <div class="row">
+            <div class="text-center">
+                <div class="col-md-4 wow fadeInDown"  data-wow-duration="500ms" data-wow-delay="600ms">
+                     <div class="panel panel-success">
+                         <div class="panel-heading">
+                            Autisha
+                         </div>
+                         <div class="panel-body">
+                             <div class="col-sm-12">
+                                <img class="img-responsive img-center h-elemt" src="<?php echo base_url() ?>public/img/autisha.jpg">
+                                <span class="input-group-btn"></span>
+                             </div>
+                         </div>
+                         <div class="panel-footer">
+                            <div class="list-group">
+                                 <div class="list-group-item">
+                                     <div class="row-content">
+                                         <h4 class="list-group-item-heading">Tile with a label</h4>
+                                         <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus.</p>
+                                     </div>
+                                     <a class="row-action-primary" style="cursor:pointer">
+                                        <i class="material-icons">send</i>
+                                     </a>
+                                     <div class="row-content">
+                                         <p class="list-group-item-text">Autisha nuevo viaje precio ..... inicio ... fin....</p>
+                                     </div>
+                                 </div>
+                             </div>
+                         </div>
+                     </div>
+                </div>
+                <div class="col-md-4 wow fadeInDown"  data-wow-duration="500ms" data-wow-delay="900ms">
+                     <div class="panel panel-success">
+                         <div class="panel-heading">
+                            Pachacamac
+                         </div>
+                         <div class="panel-body">
+                             <div class="col-sm-12">
+                                <img class="img-responsive img-center h-elemt" src="<?php echo base_url() ?>public/img/pachacamac.jpg">
+                                <span class="input-group-btn"></span>
+                             </div>
+                         </div>
+                         <div class="panel-footer">
+                            <div class="list-group">
+                                 <div class="list-group-item">
+                                     <div class="row-content">
+                                         <h4 class="list-group-item-heading">Tile with a label</h4>
+                                         <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus.</p>
+                                     </div>
+                                     <a class="row-action-primary" style="cursor:pointer">
+                                        <i class="material-icons">send</i>
+                                     </a>
+                                     <div class="row-content">
+                                         <p class="list-group-item-text">Pachacamac nuevo viaje precio ..... inicio ... fin....</p>
+                                     </div>
+                                 </div>
+                             </div>
+                         </div>
+                     </div>
+                </div>
+                <div class="col-md-4 wow fadeInDown"  data-wow-duration="500ms" data-wow-delay="1200ms">
+                     <div class="panel panel-success">
+                         <div class="panel-heading">
+                            Churin
+                         </div>
+                         <div class="panel-body">
+                             <div class="col-sm-12">
+                                <img class="img-responsive img-center" src="<?php echo base_url() ?>public/img/churin.jpg">
+                                <span class="input-group-btn"></span>
+                             </div>
+                         </div>
+                         <div class="panel-footer">
+                            <div class="list-group">
+                                 <div class="list-group-item">
+                                     <div class="row-content">
+                                         <h4 class="list-group-item-heading">Tile with a label</h4>
+                                         <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus.</p>
+                                     </div>
+                                     <a class="row-action-primary" style="cursor:pointer">
+                                        <i class="material-icons">send</i>
+                                     </a>
+                                     <div class="row-content">
+                                         <p class="list-group-item-text">Churin nuevo viaje precio ..... inicio ... fin....</p>
+                                     </div>
+                                 </div>
+                             </div>
+                         </div>
+                     </div>
+                </div>
+                <div class="col-md-4 wow fadeInDown"  data-wow-duration="500ms" data-wow-delay="300ms">
+                </div>
+            </div>
         </div>
     </div>
 </div>

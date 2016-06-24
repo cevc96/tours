@@ -20,3 +20,9 @@
 .left{
 	float: left;
 }
+
+@media (min-width: 992px){
+	.h-elemt{
+		height: 190px		
+	}	
+}

@@ -67,7 +67,7 @@
                                      </div>
                                      <div class="panel-body">
                                          <div class="col-sm-12">
-                                            <img class="img-responsive img-center" src="<?php echo base_url() ?>public/img/autisha.jpg">}<span class="input-group-btn">
+                                            <img class="img-responsive img-center " src="<?php echo base_url() ?>public/img/autisha.jpg"><span class="input-group-btn"></span>
                                          </div>
                                      </div>
                                      <div class="panel-footer">

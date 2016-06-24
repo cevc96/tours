@@ -8,10 +8,13 @@
         <link rel="shortcut icon" type="image/png" href="<?php echo base_url() ?>/public/img/icons/vive_training.png"/>
         <!-- Bootstrap -->
         <link href="<?php echo base_url() ?>/public/css/bootstrap/bootstrap.min.css" rel="stylesheet">
+        <link href="<?php echo base_url() ?>/public/css/bootstrap/bootstrap-material-design.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="<?php echo base_url() ?>/public/css/fonts/material-icons.css">
         <link rel="stylesheet" href="<?php echo base_url() ?>/public/css/fonts/font-awesome.min.css">
         <link rel="stylesheet" href="<?php echo base_url() ?>/public/css/themes/animate.css">
         <link href="<?php echo base_url() ?>/public/css/themes/prettyPhoto.css" rel="stylesheet">
         <link href="<?php echo base_url() ?>/public/css/themes/style.css" rel="stylesheet" />	
+        <link rel="stylesheet" href="<?php echo base_url() ?>/public/css/elements/componets.css">
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
         <!--[if lt IE 9]>
