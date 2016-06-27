@@ -7,53 +7,37 @@
             <div class="inner-bg">
                 <div class="container">
                     <div class="row">
-                        <div class="col-sm-8 col-sm-offset-2 text">
-                            <h1><strong>Bootstrap</strong> Login Form</h1>
-                            <div class="description">
-                            	<p>
-	                            	This is a free responsive login form made with Bootstrap. 
-	                            	Download it on <a href="http://azmind.com"><strong>AZMIND</strong></a>, customize and use it as you like!
-                            	</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
                         <div class="col-sm-6 col-sm-offset-3 form-box">
                         	<div class="form-top">
                         		<div class="form-top-left">
-                        			<h3>Login to our site</h3>
-                            		<p>Enter your username and password to log on:</p>
-                        		</div>
-                        		<div class="form-top-right">
-                        			<i class="material-icons">edit</i>
+                        			<h3>Ingresar</h3>
+                            		<p>Digita tu usuario y contraseña</p>
                         		</div>
                             </div>
                             <div class="form-bottom">
-			                    <form role="form" action="" method="post" class="login-form">
-			                    	<div class="form-group">
-			                    		<label class="sr-only" for="form-username">Username</label>
-			                        	<input type="text" name="form-username" placeholder="Username..." class="form-username form-control" id="form-username">
-			                        </div>
-			                        <div class="form-group">
-			                        	<label class="sr-only" for="form-password">Password</label>
-			                        	<input type="password" name="form-password" placeholder="Password..." class="form-password form-control" id="form-password">
-			                        </div>
-			                        <button type="submit" class="btn-sign-in">Sign in!</button>
-			                    </form>
+			                    <div class="form-group label-floating">
+                                  <input class="form-control" id="username" type="text">
+                                  <label class="control-label" for="username">Usuario</label>
+                                </div>
+		                        <div class="form-group label-floating">
+                                  <input class="form-control" id="password" type="password">
+                                  <label class="control-label" for="password">Contraseña</label>
+                                </div>
+		                        <button type="submit" class="btn-sign-in">Ingresar</button>
 		                    </div>
                         </div>
-                    </div>
-                    <div class="row">
+                    </div> 
+                    <div class="row text-center">
                         <div class="col-sm-6 col-sm-offset-3 social-login">
-                        	<h3>...or login with:</h3>
+                        	<h3>...o ingresa por: </h3>
                         	<div class="social-login-buttons">
-	                        	<a class="btn btn-link-1 btn-link-1-facebook" href="#">
+	                        	<a class="btn btn-link-1 btn-link-1-facebook" href="http://www.facebook.com">
 	                        		<i class="fa fa-facebook"></i> Facebook
 	                        	</a>
-	                        	<a class="btn btn-link-1 btn-link-1-twitter" href="#">
+	                        	<a class="btn btn-link-1 btn-link-1-twitter" href="http://www.twitter.com">
 	                        		<i class="fa fa-twitter"></i> Twitter
 	                        	</a>
-	                        	<a class="btn btn-link-1 btn-link-1-google-plus" href="#">
+	                        	<a class="btn btn-link-1 btn-link-1-google-plus" href="http://www.gmail.com">
 	                        		<i class="fa fa-google-plus"></i> Google Plus
 	                        	</a>
                         	</div>

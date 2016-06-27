@@ -120,35 +120,29 @@
                 				<ul>
                 					<li>
                 						<div class="media-left">
-                							<i class="fa fa-pencil"></i>
+                							<i class="fa fa-list-alt"></i>
                 						</div>
                 						<div class="media-body">
-                							<h4 class="media-heading">Web Development</h4>
-                							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                								Phasellus interdum erat libero, pulvinar tincidunt leo
-                								consectetur eget.</p>
+                							<h4 class="media-heading">Itinerario</h4>
+                							<p>06 a.m.. Reunión en Calle el Comercio cdra 1, San Borja (A espalda del Museo de la Nación).</br>
+                                               06:15 am. Salida con Dirección a Autisha.</br>
+                                               09 a.m.. llegada e inicio del trekking.</br>
+                                               12:00 m. Llegada a la Laguna Sheke y Momento de refrigerio</br>
+                                               13:00. Retorno en Rapel 30 mts ..</br>
+                                               15:00. Partimos en la movilidad rumbo a Lima</br>
+                                               18:30. Llegada a Lima</p>
                 						</div>
                 					</li>
                 					<li>
                 						<div class="media-left">
-                							<i class="fa fa-book"></i>
+                							<i class="fa fa-money"></i>
                 						</div>
                 						<div class="media-body">
-                							<h4 class="media-heading">Responsive Design</h4>
-                							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                								Phasellus interdum erat libero, pulvinar tincidunt leo
-                								consectetur eget.</p>
-                						</div>
-                					</li>
-                					<li>
-                						<div class="media-left">
-                							<i class="fa fa-rocket"></i>
-                						</div>
-                						<div class="media-body">
-                							<h4 class="media-heading">Bootstrap Themes</h4>
-                							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                								Phasellus interdum erat libero, pulvinar tincidunt leo
-                								consectetur eget.</p>
+                							<h4 class="media-heading">Costos</h4>
+                							<p>S /.110.00 – Por persona</br>
+                                               S/. 85.00 – Afiliados al Club Mundo Aventura</br>
+                                               Afíliate: http://mundoaventuratravel.com/club-mundo-aventura/</br>
+                                               S/. 10.00 de incremento los días 28, 29, 30 y 31 de julio.</p>
                 						</div>
                 					</li>
                 				</ul>
@@ -172,35 +166,75 @@
                 				<ul>
                 					<li>
                 						<div class="media-left">
-                							<i class="fa fa-pencil"></i>
+                							<i class="fa fa-list-alt"></i>
                 						</div>
                 						<div class="media-body">
-                							<h4 class="media-heading">Web Development</h4>
-                							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                								Phasellus interdum erat libero, pulvinar tincidunt leo
-                								consectetur eget.</p>
+                							<h4 class="media-heading">Itinerario</h4>
+                							<p>06 a.m.. Reunión en Calle el Comercio cdra 1, San Borja (A espalda del Museo de la Nación).</br>
+                                               06:15 am. Salida con Dirección a Autisha.</br>
+                                               09 a.m.. llegada e inicio del trekking.</br>
+                                               12:00 m. Llegada a la Laguna Sheke y Momento de refrigerio</br>
+                                               13:00. Retorno en Rapel 30 mts ..</br>
+                                               15:00. Partimos en la movilidad rumbo a Lima</br>
+                                               18:30. Llegada a Lima</p>
                 						</div>
                 					</li>
                 					<li>
                 						<div class="media-left">
-                							<i class="fa fa-book"></i>
+                							<i class="fa fa-money"></i>
                 						</div>
                 						<div class="media-body">
-                							<h4 class="media-heading">Responsive Design</h4>
-                							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                								Phasellus interdum erat libero, pulvinar tincidunt leo
-                								consectetur eget.</p>
+                							<h4 class="media-heading">Costos</h4>
+                							<p>S /.110.00 – Por persona</br>
+                                               S/. 85.00 – Afiliados al Club Mundo Aventura</br>
+                                               Afíliate: http://mundoaventuratravel.com/club-mundo-aventura/</br>
+                                               S/. 10.00 de incremento los días 28, 29, 30 y 31 de julio.</p>
+                						</div>
+                					</li>
+                				</ul>
+                			</div>
+                		</div>
+                	</div>
+                	<div id="4" class="container" style="display:none">
+                		<h3>Albuferas de Medio Mundo</h3>
+                		<hr>
+                		<div class="col-md-6">
+                			<img src="<?php echo base_url() ?>public/img/albuferas_completo.jpg" class="img-responsive">
+                			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
+                				interdum erat libero, pulvinar tincidunt leo consectetur eget.
+                				Curabitur lacinia pellentesque libero, pulvinar tincidunt leo
+                				consectetur eget. Curabitur lacinia pellentesque libero, pulvinar
+                				tincidunt leo consectetur eget. Curabitur lacinia pellentesque</p>
+                		</div>
+                
+                		<div class="col-md-6">
+                			<div class="media">
+                				<ul>
+                					<li>
+                						<div class="media-left">
+                							<i class="fa fa-list-alt"></i>
+                						</div>
+                						<div class="media-body">
+                							<h4 class="media-heading">Itinerario</h4>
+                							<p>06 a.m.. Reunión en Calle el Comercio cdra 1, San Borja (A espalda del Museo de la Nación).</br>
+                                               06:15 am. Salida con Dirección a Autisha.</br>
+                                               09 a.m.. llegada e inicio del trekking.</br>
+                                               12:00 m. Llegada a la Laguna Sheke y Momento de refrigerio</br>
+                                               13:00. Retorno en Rapel 30 mts ..</br>
+                                               15:00. Partimos en la movilidad rumbo a Lima</br>
+                                               18:30. Llegada a Lima</p>
                 						</div>
                 					</li>
                 					<li>
                 						<div class="media-left">
-                							<i class="fa fa-rocket"></i>
+                							<i class="fa fa-money"></i>
                 						</div>
                 						<div class="media-body">
-                							<h4 class="media-heading">Bootstrap Themes</h4>
-                							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                								Phasellus interdum erat libero, pulvinar tincidunt leo
-                								consectetur eget.</p>
+                							<h4 class="media-heading">Costos</h4>
+                							<p>S /.110.00 – Por persona</br>
+                                               S/. 85.00 – Afiliados al Club Mundo Aventura</br>
+                                               Afíliate: http://mundoaventuratravel.com/club-mundo-aventura/</br>
+                                               S/. 10.00 de incremento los días 28, 29, 30 y 31 de julio.</p>
                 						</div>
                 					</li>
                 				</ul>

@@ -17,3 +17,7 @@ function showCardBySelected(id){
 	console.log(id);
 	$(id).css('display','block');
 }
+
+function solicitarReserva(){
+	$("#myModal").modal()
+}

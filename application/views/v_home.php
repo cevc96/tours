@@ -19,7 +19,184 @@
     </div><!--/.carousel-->
 </section><!--/#main-slider-->
 
-<div class="feature">
+<div class="lates">
+    <div class="container">
+        <div class="row">
+            <div class="">
+                <div class="col-md-4 col-md-offset-1 wow fadeInDown"  data-wow-duration="500ms" data-wow-delay="600ms">
+                     <div class="panel panel-success">
+                         <div class="panel-heading text-center">
+                            Autisha
+                         </div>
+                         <div class="panel-body">
+                             <div class="col-sm-12">
+                                <img class="img-responsive img-center h-elemt" src="<?php echo base_url() ?>public/img/autisha.jpg">
+                                <span class="input-group-btn"></span>
+                             </div>
+                         </div>
+                         <div class="panel-footer">
+                            <div class="list-group">
+                                 <div class="list-group-item">
+                                     <div class="row-content">
+                                         <h4 class="list-group-item-heading">Rapel</h4>
+                                         <p class="list-group-item-text">Incluye:</p>
+                                     </div>
+                                     <div class="row-content">
+                                         <p class="list-group-item-text">Puenting + Hiking y vía ferrata a la cascada Autisha </p>
+                                         <div class="row" style="float: right">
+                                            <a href="javascript:void(0)" class="btn btn-success" onclick="solicitarReserva(4)">Solicitar</a>
+                                            <a href="javascript:void(0)" class="btn btn-info" onclick="goToDetalleCard(1)">Ver</a>
+                                         </div>
+                                     </div>
+                                 </div>
+                             </div>
+                         </div>
+                     </div>
+                </div>
+                <div class="col-md-4 col-md-offset-1 wow fadeInDown"  data-wow-duration="500ms" data-wow-delay="900ms">
+                     <div class="panel panel-success">
+                         <div class="panel-heading text-center">
+                            Pachacamac
+                         </div>
+                         <div class="panel-body">
+                             <div class="col-sm-12">
+                                <img class="img-responsive img-center h-elemt" src="<?php echo base_url() ?>public/img/pachacamac.jpg">
+                                <span class="input-group-btn"></span>
+                             </div>
+                         </div>
+                         <div class="panel-footer">
+                            <div class="list-group">
+                                 <div class="list-group-item">
+                                     <div class="row-content">
+                                         <h4 class="list-group-item-heading">Parapente</h4>
+                                         <p class="list-group-item-text">Incluye:</p>
+                                     </div>
+                                     <div class="row-content">
+                                         <p class="list-group-item-text">Parapente</p>
+                                         <p class="list-group-item-text">Rapel</p>
+                                         <div class="row" style="float: right">
+                                            <a href="javascript:void(0)" class="btn btn-success" onclick="solicitarReserva(4)">Solicitar</a>
+                                            <a href="javascript:void(0)" class="btn btn-info" onclick="goToDetalleCard(2)">Ver</a>
+                                         </div>
+                                     </div>
+                                 </div>
+                             </div>
+                         </div>
+                     </div>
+                </div>
+                <div class="col-md-4 col-md-offset-1 wow fadeInDown"  data-wow-duration="500ms" data-wow-delay="1200ms">
+                     <div class="panel panel-success">
+                         <div class="panel-heading text-center">
+                            Churin
+                         </div>
+                         <div class="panel-body">
+                             <div class="col-sm-12">
+                                <img class="img-responsive img-center h-elemt" src="<?php echo base_url() ?>public/img/churin.jpg">
+                                <span class="input-group-btn"></span>
+                             </div>
+                         </div>
+                         <div class="panel-footer">
+                            <div class="list-group">
+                                 <div class="list-group-item">
+                                     <div class="row-content">
+                                         <h4 class="list-group-item-heading">Churin 2d/1n</h4>
+                                         <p class="list-group-item-text">Incluye:</p>
+                                     </div>
+                                     <div class="row-content">
+                                         <p class="list-group-item-text">Transporte privado, Noche de habitación, etc.</p>
+                                         <p class="list-group-item-text">S/. 300</p>
+                                     </div>
+                                     <div class="row" style="float: right">
+                                        <a href="javascript:void(0)" class="btn btn-success" onclick="solicitarReserva(4)">Solicitar</a>
+                                        <a href="javascript:void(0)" class="btn btn-info" onclick="goToDetalleCard(3)">Ver</a>
+                                     </div>
+                                 </div>
+                             </div>
+                         </div>
+                     </div>
+                </div>
+                <div class="col-md-4 col-md-offset-1 wow fadeInDown"  data-wow-duration="500ms" data-wow-delay="1200ms">
+                     <div class="panel panel-success">
+                         <div class="panel-heading text-center">
+                            Albuferas de Medio Mundo
+                         </div>
+                         <div class="panel-body">
+                             <div class="col-sm-12">
+                                <img class="img-responsive img-center h-elemt" src="<?php echo base_url() ?>public/img/albuferas.jpg">
+                                <span class="input-group-btn"></span>
+                             </div>
+                         </div>
+                         <div class="panel-footer">
+                            <div class="list-group">
+                                 <div class="list-group-item">
+                                     <div class="row-content">
+                                         <h4 class="list-group-item-heading">Churin 2d/1n</h4>
+                                         <p class="list-group-item-text">Incluye:</p>
+                                     </div>
+                                     <div class="row-content">
+                                         <p class="list-group-item-text">Transporte privado, Noche de habitación, etc.</p>
+                                         <p class="list-group-item-text">S/. 300</p>
+                                     </div>
+                                     <div class="row" style="float: right">
+                                        <a href="javascript:void(0)" class="btn btn-success" onclick="solicitarReserva(4)">Solicitar</a>
+                                        <a href="javascript:void(0)" class="btn btn-info" onclick="goToDetalleCard(4)">Ver</a>
+                                     </div>
+                                 </div>
+                             </div>
+                         </div>
+                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade backModal" tabindex="-1" role="dialog" id="myModal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">Solicitar Paquete</h4>
+      </div>
+      <div class="row">
+        <div class="col-sm-11 col-sm-offset-1">
+            <div class="col-sm-10">
+                <div class="form-group label-floating">
+                  <input class="form-control" id="username" type="text">
+                  <label class="control-label" for="username">Nombres y Apellidos</label>
+                </div>
+            </div>
+            <div class="col-sm-10">
+                <div class="form-group label-floating">
+                  <input class="form-control" id="username" type="text">
+                  <label class="control-label" for="username">DNI</label>
+                </div>
+            </div>
+            <div class="col-sm-10">
+                <div class="form-group label-floating">
+                  <input class="form-control" id="username" type="text">
+                  <label class="control-label" for="username">Teléfono</label>
+                </div>
+            </div>
+            <div class="col-sm-10">
+                <div class="form-group label-floating">
+                  <input class="form-control" id="username" type="text">
+                  <label class="control-label" for="username">Correo</label>
+                </div>
+            </div>
+        </div>
+      </div>
+      <div class="row">
+          <div class="col-sm-6 col-sm-offset-6" style="float: left;">
+            <a href="javascript:void(0)" class="btn btn-default" data-dismiss="modal">Cancelar</a>
+            <a href="javascript:void(0)" class="btn btn-primary">Aceptar</a>
+          </div>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<!--  <div class="feature">
     <div class="container">
         <div class="text-center">
             <div class="col-md-3">
@@ -53,107 +230,7 @@
         </div>
     </div>
 </div>
-
-<div class="lates">
-    <div class="container">
-        <div class="row">
-            <div class="">
-                <div class="col-md-4 wow fadeInDown"  data-wow-duration="500ms" data-wow-delay="600ms">
-                     <div class="panel panel-success">
-                         <div class="panel-heading text-center">
-                            Autisha
-                         </div>
-                         <div class="panel-body">
-                             <div class="col-sm-12">
-                                <img class="img-responsive img-center h-elemt" src="<?php echo base_url() ?>public/img/autisha.jpg">
-                                <span class="input-group-btn"></span>
-                             </div>
-                         </div>
-                         <div class="panel-footer">
-                            <div class="list-group">
-                                 <div class="list-group-item">
-                                     <div class="row-content">
-                                         <h4 class="list-group-item-heading">Rapel</h4>
-                                         <p class="list-group-item-text">Incluye:</p>
-                                     </div>
-                                     <a class="row-action-primary" style="cursor:pointer" onclick="goToDetalleCard(1)">
-                                        <i class="material-icons">send</i>
-                                     </a>
-                                     <div class="row-content">
-                                         <p class="list-group-item-text">Puenting + Hiking y vía ferrata a la cascada Autisha </p>
-                                     </div>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                </div>
-                <div class="col-md-4 wow fadeInDown"  data-wow-duration="500ms" data-wow-delay="900ms">
-                     <div class="panel panel-success">
-                         <div class="panel-heading text-center">
-                            Pachacamac
-                         </div>
-                         <div class="panel-body">
-                             <div class="col-sm-12">
-                                <img class="img-responsive img-center h-elemt" src="<?php echo base_url() ?>public/img/pachacamac.jpg">
-                                <span class="input-group-btn"></span>
-                             </div>
-                         </div>
-                         <div class="panel-footer">
-                            <div class="list-group">
-                                 <div class="list-group-item">
-                                     <div class="row-content">
-                                         <h4 class="list-group-item-heading">Parapente</h4>
-                                         <p class="list-group-item-text">Incluye:</p>
-                                     </div>
-                                     <a class="row-action-primary" style="cursor:pointer" onclick="goToDetalleCard(2)">
-                                        <i class="material-icons">send</i>
-                                     </a>
-                                     <div class="row-content">
-                                         <p class="list-group-item-text">Parapente</p>
-                                         <p class="list-group-item-text">Rapel</p>
-                                     </div>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                </div>
-                <div class="col-md-4 wow fadeInDown"  data-wow-duration="500ms" data-wow-delay="1200ms">
-                     <div class="panel panel-success">
-                         <div class="panel-heading text-center">
-                            Churin
-                         </div>
-                         <div class="panel-body">
-                             <div class="col-sm-12">
-                                <img class="img-responsive img-center h-elemt" src="<?php echo base_url() ?>public/img/churin.jpg">
-                                <span class="input-group-btn"></span>
-                             </div>
-                         </div>
-                         <div class="panel-footer">
-                            <div class="list-group">
-                                 <div class="list-group-item">
-                                     <div class="row-content">
-                                         <h4 class="list-group-item-heading">Churin 2d/1n</h4>
-                                         <p class="list-group-item-text">Incluye:</p>
-                                     </div>
-                                     <a class="row-action-primary" style="cursor:pointer" onclick="goToDetalleCard(3)">
-                                        <i class="material-icons">send</i>
-                                     </a>
-                                     <div class="row-content">
-                                         <p class="list-group-item-text">Transporte privado, Noche de habitación, etc.</p>
-                                         <p class="list-group-item-text">S/. 300</p>
-                                     </div>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                </div>
-                <div class="col-md-4 wow fadeInDown"  data-wow-duration="500ms" data-wow-delay="300ms">
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
+-->
 <div class="about">
     <div class="container">
         <div class="col-md-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" >
