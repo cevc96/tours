@@ -15,7 +15,7 @@
 
             <div class="col-md-4 col-md-offset-4">
                 <div class="copyright">
-                    &copy; June  2015 by <a target="_blank" href="http://bootstraptaste.com/" title="Free Twitter Bootstrap WordPress Themes and HTML templates">Bootstrap Themes</a>. All Rights Reserved.
+                    &copy; June  2015
                 </div>
             </div>						
         </div>
