@@ -1,8 +1,10 @@
 <div id="breadcrumb">
 	<div class="container">
 		<div class="breadcrumb">
-			<li><a href="index.html">Home</a></li>
-			<li>Contact</li>
+			<ol class="breadcrumb">
+				<li><a href="index.html">Home</a></li>
+				<li>Contact</li>
+			</ol>
 		</div>
 	</div>
 </div>
@@ -29,29 +31,30 @@
 							class="form-control" required="required">
 					</div>
 					<div class="form-group">
-						<label>Email *</label>
-						<input type="email" name="email" class="form-control" required="required">
+						<label>Email *</label> <input type="email" name="email"
+							class="form-control" required="required">
 					</div>
 					<div class="form-group">
-						<label>Tel&eacute;fono</label>
-						<input type="number" class="form-control">
+						<label>Tel&eacute;fono</label> <input type="number"
+							class="form-control">
 					</div>
 					<div class="form-group">
-						<label>Company Name</label>
-						<input type="text" class="form-control">
+						<label>Company Name</label> <input type="text"
+							class="form-control">
 					</div>
 				</div>
 				<div class="col-sm-5">
 					<div class="form-group">
-						<label>Asunto *</label>
-						<input type="text" name="subject" class="form-control" required="required">
+						<label>Asunto *</label> <input type="text" name="subject"
+							class="form-control" required="required">
 					</div>
 					<div class="form-group">
 						<label>Mensaje *</label>
-						<textarea name="message" id="message" required="required" class="form-control" rows="8"></textarea>
+						<textarea name="message" id="message" required="required"
+							class="form-control" rows="8"></textarea>
 					</div>
 					<div class="form-group">
-						<button type="submit" name="submit" class="btn btn-primary btn-lg" required="required">Enviar Mensaje</button>
+						<button type="submit" name="submit" class="btn btn-primary btn-lg">Enviar Mensaje</button>
 					</div>
 				</div>
 			</form>

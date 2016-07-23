@@ -35,7 +35,7 @@
                                 <span class="icon-bar"></span>
                             </button>
                             <div class="navbar-brand">
-                                <a href="index.html"><h1><span>Tours</span>Tematicos</h1></a>
+                                <h1><a href="index.html"><span>Tours</span>Tematicos</a></h1>
                             </div>
                         </div>
                         <div class="navbar-collapse collapse">							

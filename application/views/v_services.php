@@ -1,8 +1,10 @@
 <div id="breadcrumb">
 	<div class="container">
 		<div class="breadcrumb">
-			<li><a href="index.html">Home</a></li>
-			<li>Services</li>
+			<ol class="breadcrumb">
+				<li><a href="index.html">Home</a></li>
+				<li>Services</li>
+			</ol>
 		</div>
 	</div>
 </div>
@@ -12,7 +14,8 @@
 		<h3>Company Services</h3>
 		<hr>
 		<div class="col-md-6">
-			<img src="<?php echo base_url() ?>public/img/4.jpg" class="img-responsive">
+			<img src="<?php echo base_url() ?>public/img/4.jpg"
+				class="img-responsive">
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
 				interdum erat libero, pulvinar tincidunt leo consectetur eget.
 				Curabitur lacinia pellentesque libero, pulvinar tincidunt leo
@@ -105,7 +108,8 @@
 		</div>
 
 		<div class="col-md-6">
-			<img src="<?php echo base_url() ?>public/img/4.jpg" class="img-responsive">
+			<img src="<?php echo base_url() ?>public/img/4.jpg"
+				class="img-responsive">
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
 				interdum erat libero, pulvinar tincidunt leo consectetur eget.
 				Curabitur lacinia pellentesque libero, pulvinar tincidunt leo

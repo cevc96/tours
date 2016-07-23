@@ -35,7 +35,7 @@
                                 <span class="icon-bar"></span>
                             </button>
                             <div class="navbar-brand">
-                                <a href="index.html"><h1><span>Tours</span>Tematicos</h1></a>
+                                <h1><a href="index.html"><span>Tours</span>Tematicos</a></h1>
                             </div>
                         </div>
                         <div class="navbar-collapse collapse">							
@@ -78,12 +78,12 @@
                 						</div>
                 						<div class="media-body">
                 							<h4 class="media-heading">Itinerario</h4>
-                							<p>06 a.m.. Reunión en Calle el Comercio cdra 1, San Borja (A espalda del Museo de la Nación).</br>
-                                               06:15 am. Salida con Dirección a Autisha.</br>
-                                               09 a.m.. llegada e inicio del trekking.</br>
-                                               12:00 m. Llegada a la Laguna Sheke y Momento de refrigerio</br>
-                                               13:00. Retorno en Rapel 30 mts ..</br>
-                                               15:00. Partimos en la movilidad rumbo a Lima</br>
+                							<p>06 a.m.. Reunión en Calle el Comercio cdra 1, San Borja (A espalda del Museo de la Nación).<br/>
+                                               06:15 am. Salida con Dirección a Autisha.<br/>
+                                               09 a.m.. llegada e inicio del trekking.<br/>
+                                               12:00 m. Llegada a la Laguna Sheke y Momento de refrigerio<br/>
+                                               13:00. Retorno en Rapel 30 mts ..<br/>
+                                               15:00. Partimos en la movilidad rumbo a Lima<br/>
                                                18:30. Llegada a Lima</p>
                 						</div>
                 					</li>
@@ -93,9 +93,9 @@
                 						</div>
                 						<div class="media-body">
                 							<h4 class="media-heading">Costos</h4>
-                							<p>S /.110.00 – Por persona</br>
-                                               S/. 85.00 – Afiliados al Club Mundo Aventura</br>
-                                               Afíliate: http://mundoaventuratravel.com/club-mundo-aventura/</br>
+                							<p>S /.110.00 – Por persona<br/>
+                                               S/. 85.00 – Afiliados al Club Mundo Aventura<br/>
+                                               Afíliate: http://mundoaventuratravel.com/club-mundo-aventura/<br/>
                                                S/. 10.00 de incremento los días 28, 29, 30 y 31 de julio.</p>
                 						</div>
                 					</li>
@@ -124,12 +124,12 @@
                 						</div>
                 						<div class="media-body">
                 							<h4 class="media-heading">Itinerario</h4>
-                							<p>06 a.m.. Reunión en Calle el Comercio cdra 1, San Borja (A espalda del Museo de la Nación).</br>
-                                               06:15 am. Salida con Dirección a Autisha.</br>
-                                               09 a.m.. llegada e inicio del trekking.</br>
-                                               12:00 m. Llegada a la Laguna Sheke y Momento de refrigerio</br>
-                                               13:00. Retorno en Rapel 30 mts ..</br>
-                                               15:00. Partimos en la movilidad rumbo a Lima</br>
+                							<p>06 a.m.. Reunión en Calle el Comercio cdra 1, San Borja (A espalda del Museo de la Nación).<br/>
+                                               06:15 am. Salida con Dirección a Autisha.<br/>
+                                               09 a.m.. llegada e inicio del trekking.<br/>
+                                               12:00 m. Llegada a la Laguna Sheke y Momento de refrigerio<br/>
+                                               13:00. Retorno en Rapel 30 mts ..<br/>
+                                               15:00. Partimos en la movilidad rumbo a Lima<br/>
                                                18:30. Llegada a Lima</p>
                 						</div>
                 					</li>
@@ -139,9 +139,9 @@
                 						</div>
                 						<div class="media-body">
                 							<h4 class="media-heading">Costos</h4>
-                							<p>S /.110.00 – Por persona</br>
-                                               S/. 85.00 – Afiliados al Club Mundo Aventura</br>
-                                               Afíliate: http://mundoaventuratravel.com/club-mundo-aventura/</br>
+                							<p>S /.110.00 – Por persona<br/>
+                                               S/. 85.00 – Afiliados al Club Mundo Aventura<br/>
+                                               Afíliate: http://mundoaventuratravel.com/club-mundo-aventura/<br/>
                                                S/. 10.00 de incremento los días 28, 29, 30 y 31 de julio.</p>
                 						</div>
                 					</li>
@@ -170,12 +170,12 @@
                 						</div>
                 						<div class="media-body">
                 							<h4 class="media-heading">Itinerario</h4>
-                							<p>06 a.m.. Reunión en Calle el Comercio cdra 1, San Borja (A espalda del Museo de la Nación).</br>
-                                               06:15 am. Salida con Dirección a Autisha.</br>
-                                               09 a.m.. llegada e inicio del trekking.</br>
-                                               12:00 m. Llegada a la Laguna Sheke y Momento de refrigerio</br>
-                                               13:00. Retorno en Rapel 30 mts ..</br>
-                                               15:00. Partimos en la movilidad rumbo a Lima</br>
+                							<p>06 a.m.. Reunión en Calle el Comercio cdra 1, San Borja (A espalda del Museo de la Nación).<br/>
+                                               06:15 am. Salida con Dirección a Autisha.<br/>
+                                               09 a.m.. llegada e inicio del trekking.<br/>
+                                               12:00 m. Llegada a la Laguna Sheke y Momento de refrigerio<br/>
+                                               13:00. Retorno en Rapel 30 mts ..<br/>
+                                               15:00. Partimos en la movilidad rumbo a Lima<br/>
                                                18:30. Llegada a Lima</p>
                 						</div>
                 					</li>
@@ -185,9 +185,9 @@
                 						</div>
                 						<div class="media-body">
                 							<h4 class="media-heading">Costos</h4>
-                							<p>S /.110.00 – Por persona</br>
-                                               S/. 85.00 – Afiliados al Club Mundo Aventura</br>
-                                               Afíliate: http://mundoaventuratravel.com/club-mundo-aventura/</br>
+                							<p>S /.110.00 – Por persona<br/>
+                                               S/. 85.00 – Afiliados al Club Mundo Aventura<br/>
+                                               Afíliate: http://mundoaventuratravel.com/club-mundo-aventura/<br/>
                                                S/. 10.00 de incremento los días 28, 29, 30 y 31 de julio.</p>
                 						</div>
                 					</li>
@@ -216,12 +216,12 @@
                 						</div>
                 						<div class="media-body">
                 							<h4 class="media-heading">Itinerario</h4>
-                							<p>06 a.m.. Reunión en Calle el Comercio cdra 1, San Borja (A espalda del Museo de la Nación).</br>
-                                               06:15 am. Salida con Dirección a Autisha.</br>
-                                               09 a.m.. llegada e inicio del trekking.</br>
-                                               12:00 m. Llegada a la Laguna Sheke y Momento de refrigerio</br>
-                                               13:00. Retorno en Rapel 30 mts ..</br>
-                                               15:00. Partimos en la movilidad rumbo a Lima</br>
+                							<p>06 a.m.. Reunión en Calle el Comercio cdra 1, San Borja (A espalda del Museo de la Nación).<br/>
+                                               06:15 am. Salida con Dirección a Autisha.<br/>
+                                               09 a.m.. llegada e inicio del trekking.<br/>
+                                               12:00 m. Llegada a la Laguna Sheke y Momento de refrigerio<br/>
+                                               13:00. Retorno en Rapel 30 mts ..<br/>
+                                               15:00. Partimos en la movilidad rumbo a Lima<br/>
                                                18:30. Llegada a Lima</p>
                 						</div>
                 					</li>
@@ -231,9 +231,9 @@
                 						</div>
                 						<div class="media-body">
                 							<h4 class="media-heading">Costos</h4>
-                							<p>S /.110.00 – Por persona</br>
-                                               S/. 85.00 – Afiliados al Club Mundo Aventura</br>
-                                               Afíliate: http://mundoaventuratravel.com/club-mundo-aventura/</br>
+                							<p>S /.110.00 – Por persona<br/>
+                                               S/. 85.00 – Afiliados al Club Mundo Aventura<br/>
+                                               Afíliate: http://mundoaventuratravel.com/club-mundo-aventura/<br/>
                                                S/. 10.00 de incremento los días 28, 29, 30 y 31 de julio.</p>
                 						</div>
                 					</li>

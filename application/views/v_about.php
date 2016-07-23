@@ -1,8 +1,10 @@
 <div id="breadcrumb">
 	<div class="container">
 		<div class="breadcrumb">
-			<li><a href="index.html">Inicio</a></li>
-			<li>Nosotros</li>
+			<ol class="breadcrumb">
+				<li><a href="index.html">Inicio</a></li>
+				<li>Nosotros</li>
+			</ol>
 		</div>
 	</div>
 </div>
