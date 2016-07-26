@@ -244,7 +244,7 @@
         </div>
 
         <div class="col-md-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" >
-            <h2>Template built with Twitter Bootstrap</h2>
+            <h2>Template built with Twitter</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat 
                 libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
                 libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
