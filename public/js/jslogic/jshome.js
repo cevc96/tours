@@ -21,3 +21,16 @@ function showCardBySelected(id){
 function solicitarReserva(){
 	$("#myModal").modal()
 }
+
+function logout(){
+	$.ajax({
+		url   : 'c_main/logout',
+		type  : 'POST',
+		async : false
+	})
+	.done(function(data){
+		data = JSON.parse(data);
+		window.location.replace(data.url);
+		
+	});
+}
