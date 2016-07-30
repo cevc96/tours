@@ -27,7 +27,7 @@ class C_login extends CI_Controller {
 	    $data['error'] = 1;
 	    $data['msj'] = null;
 	    $usuario    = 'admin';
-	    $contraseña = '123';
+	    $contrasena = '123';
 	    $idUsuario = '1';
 	    try{
 	        $username = trim($this->input->post('username'));
@@ -36,10 +36,10 @@ class C_login extends CI_Controller {
 	            throw new Exception('Ingrese su usuario');
 	        }
 	        if($password == null){
-	            throw new Exception('Ingrese su contraseña');
+	            throw new Exception('Ingrese su contraseï¿½a');
 	        }
-	        if($username != $usuario || $password != $contraseña){
-	            throw new Exception('El usuario y/o contraseña no son correctos');
+	        if($username != $usuario || $password != $contrasena){
+	            throw new Exception('El usuario y/o contraseï¿½a no son correctos');
 	        }
 	        $data['error'] = 0;
 	        $data['url']   = base_url().'c_main';
