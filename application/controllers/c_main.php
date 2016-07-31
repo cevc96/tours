@@ -23,7 +23,7 @@ class C_main extends CI_Controller {
         $this->load->view('layout/footer');
     }
     
-    function redirectToDetalleCard(){
+    function redirectToDetalleCard() {
         $data = null;
         try{
             $card = $this->input->post('card');
@@ -34,7 +34,7 @@ class C_main extends CI_Controller {
         echo json_encode(array_map('utf8_encode', $data));
     }
     
-    function logout(){
+    function logout() {
         $this->session->set_userdata(array('id_usuario' => null));
         $data['url'] = base_url().'c_main';
         echo json_encode(array_map('utf8_encode', $data));
